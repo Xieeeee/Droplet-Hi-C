@@ -1,4 +1,4 @@
-# Droplet Hi-C
+# Droplet Hi-C <img src="./images/logo_final.png" align="right" width="100"/>
 Droplet Hi-C is a cheap, convenient and scalable method for chromatin architecture profiling in single cells, based on the widely available 10X Chromium Single Cell ATAC platform.
 
 
